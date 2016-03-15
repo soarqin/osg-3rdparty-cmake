@@ -94,3 +94,21 @@ Latest version tested: nmoinvaz/minizip@24b1a756e6091399017da69c4a8d63bab945daea
 Sources for MINIZIP can be downloaded from:
 
 http://github.com/nmoinvaz/minizip
+
+
+mbedtls
+-------
+Latest version tested: 2.2.1
+
+Sources for mbedtls can be downloaded from:
+
+https://github.com/ARMmbed/mbedtls
+
+
+curl
+----
+Latest version tested: 7.47.1
+
+Sources for curl can be downloaded from:
+
+https://curl.haxx.se/

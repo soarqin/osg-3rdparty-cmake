@@ -1,10 +1,12 @@
 # exclude all source codes
+/curl/**
 /freetype/**
 /giflib/**
 /glut/**
 /libjpeg/**
 /libpng/**
 /libtiff/**
+/mbedtls/**
 /minizip/**
 /zlib/**
 
