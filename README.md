@@ -61,7 +61,7 @@ http://www.libtiff.org
 
 FreeType
 --------
-Latest version tested: 2.6.2
+Latest version tested: 2.6.3
 
 Sources for FreeType can be downloaded from:
 
@@ -89,7 +89,7 @@ http://sourceforge.net/projects/giflib/
 MINIZIP
 -------
 
-Latest version tested: nmoinvaz/minizip@16455205a717532e416d92c40df44f3b1797d7d8
+Latest version tested: nmoinvaz/minizip@24b1a756e6091399017da69c4a8d63bab945daea
 
 Sources for MINIZIP can be downloaded from:
 
