@@ -1,6 +1,6 @@
 PROJECT(giflib C)
 
-SET(TARGET_LIB libgif)
+SET(TARGET_LIB giflib)
 
 SET(GIFLIB_PUBLIC_HEADERS
 	${GIFLIB_SOURCE_DIR}/lib/gif_lib.h
@@ -17,6 +17,7 @@ SET(GIFLIB_SRCS
 	${GIFLIB_SOURCE_DIR}/lib/gif_font.c
 	${GIFLIB_SOURCE_DIR}/lib/gif_hash.c
 	${GIFLIB_SOURCE_DIR}/lib/gifalloc.c
+	${GIFLIB_SOURCE_DIR}/lib/openbsd-reallocarray.c
 	${GIFLIB_SOURCE_DIR}/lib/quantize.c
 )
 
