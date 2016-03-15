@@ -1,0 +1,18 @@
+# exclude all source codes
+/freetype/**
+/giflib/**
+/glut/**
+/libjpeg/**
+/libpng/**
+/libtiff/**
+/minizip/**
+/zlib/**
+
+# but keep CMakeLists and customized source codes
+!/*/CMakeLists.txt
+!/giflib/getopt.c
+!/giflib/getopt.h
+!/giflib/stdbool.h
+!/giflib/unistd.h.in
+!/libtiff/tif_config.mingw.h      
+!/libtiff/tiffconf.mingw.h
